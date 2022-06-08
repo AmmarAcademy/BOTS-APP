@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "943835165027",
+    "firebase_url": "https://thinkchat-1e600-default-rtdb.firebaseio.com",
+    "project_id": "thinkchat-1e600",
+    "storage_bucket": "thinkchat-1e600.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943835165027:android:b9655f69d6afc4de58a356",
+        "android_client_info": {
+          "package_name": "com.example.thinkchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943835165027-32ed3btee816l2d51pfkg9vubp1222d1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.thinkchat",
+            "certificate_hash": "fb2a61a63ef0d5e70651efef94c6038db71460c4"
+          }
+        },
+        {
+          "client_id": "943835165027-4dg35dt5ut8pdr24jn8c7g6chi50vpab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhNOYnaTaZTCnoA1ZaX8UVvCXYiguilKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943835165027-4dg35dt5ut8pdr24jn8c7g6chi50vpab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
